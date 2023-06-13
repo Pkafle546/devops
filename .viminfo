@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1686683646,,"wq"
+|2,0,1686684255,,"wq"
 :wq\
 |2,0,1686683162,,"wq\\"
 :wq/
@@ -33,35 +33,67 @@
 
 # File marks:
 '0  5  86  ~/demo1.txt
-|4,48,5,86,1686683646,"~/demo1.txt"
-'1  7  0  ~/.gitignore.txt
-|4,49,7,0,1686683447,"~/.gitignore.txt"
-'2  3  0  ~/test/test.txt
-|4,50,3,0,1686683380,"~/test/test.txt"
-'3  3  9  ~/.gitignore.txt
-|4,51,3,9,1686683303,"~/.gitignore.txt"
-'4  3  9  ~/.gitignore.txt
-|4,52,3,9,1686683303,"~/.gitignore.txt"
-'5  2  0  ~/.gitignore.txt
-|4,53,2,0,1686683243,"~/.gitignore.txt"
-'6  2  0  ~/.gitignore.txt
-|4,54,2,0,1686683243,"~/.gitignore.txt"
-'7  2  0  ~/.gitignore.txt
-|4,55,2,0,1686683243,"~/.gitignore.txt"
+|4,48,5,86,1686684255,"~/demo1.txt"
+'1  5  86  ~/demo1.txt
+|4,49,5,86,1686684188,"~/demo1.txt"
+'2  5  86  ~/demo1.txt
+|4,50,5,86,1686683646,"~/demo1.txt"
+'3  5  86  ~/demo1.txt
+|4,51,5,86,1686683646,"~/demo1.txt"
+'4  7  0  ~/.gitignore.txt
+|4,52,7,0,1686683447,"~/.gitignore.txt"
+'5  3  0  ~/test/test.txt
+|4,53,3,0,1686683380,"~/test/test.txt"
+'6  3  9  ~/.gitignore.txt
+|4,54,3,9,1686683303,"~/.gitignore.txt"
+'7  3  9  ~/.gitignore.txt
+|4,55,3,9,1686683303,"~/.gitignore.txt"
 '8  2  0  ~/.gitignore.txt
 |4,56,2,0,1686683243,"~/.gitignore.txt"
-'9  1  6  ~/test_ignore.txt
-|4,57,1,6,1686683184,"~/test_ignore.txt"
+'9  2  0  ~/.gitignore.txt
+|4,57,2,0,1686683243,"~/.gitignore.txt"
 
 # Jumplist (newest first):
 -'  5  86  ~/demo1.txt
+|4,39,5,86,1686684255,"~/demo1.txt"
+-'  5  86  ~/demo1.txt
+|4,39,5,86,1686684188,"~/demo1.txt"
+-'  5  86  ~/demo1.txt
 |4,39,5,86,1686683646,"~/demo1.txt"
+-'  2  0  ~/demo1.txt
+|4,39,2,0,1686683601,"~/demo1.txt"
+-'  2  0  ~/demo1.txt
+|4,39,2,0,1686683601,"~/demo1.txt"
 -'  2  0  ~/demo1.txt
 |4,39,2,0,1686683601,"~/demo1.txt"
 -'  7  0  ~/.gitignore.txt
 |4,39,7,0,1686683447,"~/.gitignore.txt"
 -'  7  0  ~/.gitignore.txt
 |4,39,7,0,1686683447,"~/.gitignore.txt"
+-'  7  0  ~/.gitignore.txt
+|4,39,7,0,1686683447,"~/.gitignore.txt"
+-'  7  0  ~/.gitignore.txt
+|4,39,7,0,1686683447,"~/.gitignore.txt"
+-'  7  0  ~/.gitignore.txt
+|4,39,7,0,1686683447,"~/.gitignore.txt"
+-'  7  0  ~/.gitignore.txt
+|4,39,7,0,1686683447,"~/.gitignore.txt"
+-'  7  0  ~/.gitignore.txt
+|4,39,7,0,1686683447,"~/.gitignore.txt"
+-'  7  0  ~/.gitignore.txt
+|4,39,7,0,1686683447,"~/.gitignore.txt"
+-'  3  9  ~/.gitignore.txt
+|4,39,3,9,1686683406,"~/.gitignore.txt"
+-'  3  9  ~/.gitignore.txt
+|4,39,3,9,1686683406,"~/.gitignore.txt"
+-'  3  9  ~/.gitignore.txt
+|4,39,3,9,1686683406,"~/.gitignore.txt"
+-'  3  9  ~/.gitignore.txt
+|4,39,3,9,1686683406,"~/.gitignore.txt"
+-'  3  9  ~/.gitignore.txt
+|4,39,3,9,1686683406,"~/.gitignore.txt"
+-'  3  9  ~/.gitignore.txt
+|4,39,3,9,1686683406,"~/.gitignore.txt"
 -'  3  9  ~/.gitignore.txt
 |4,39,3,9,1686683406,"~/.gitignore.txt"
 -'  3  9  ~/.gitignore.txt
@@ -74,6 +106,30 @@
 |4,39,3,0,1686683380,"~/test/test.txt"
 -'  3  0  ~/test/test.txt
 |4,39,3,0,1686683380,"~/test/test.txt"
+-'  3  0  ~/test/test.txt
+|4,39,3,0,1686683380,"~/test/test.txt"
+-'  3  0  ~/test/test.txt
+|4,39,3,0,1686683380,"~/test/test.txt"
+-'  3  0  ~/test/test.txt
+|4,39,3,0,1686683380,"~/test/test.txt"
+-'  3  0  ~/test/test.txt
+|4,39,3,0,1686683380,"~/test/test.txt"
+-'  3  0  ~/test/test.txt
+|4,39,3,0,1686683380,"~/test/test.txt"
+-'  3  0  ~/test/test.txt
+|4,39,3,0,1686683380,"~/test/test.txt"
+-'  3  0  ~/test/test.txt
+|4,39,3,0,1686683380,"~/test/test.txt"
+-'  3  0  ~/test/test.txt
+|4,39,3,0,1686683380,"~/test/test.txt"
+-'  3  0  ~/test/test.txt
+|4,39,3,0,1686683380,"~/test/test.txt"
+-'  3  0  ~/test/test.txt
+|4,39,3,0,1686683380,"~/test/test.txt"
+-'  3  0  ~/test/test.txt
+|4,39,3,0,1686683380,"~/test/test.txt"
+-'  3  0  ~/test/test.txt
+|4,39,3,0,1686683380,"~/test/test.txt"
 -'  1  0  ~/test/test.txt
 |4,39,1,0,1686683367,"~/test/test.txt"
 -'  1  0  ~/test/test.txt
@@ -82,6 +138,54 @@
 |4,39,1,0,1686683367,"~/test/test.txt"
 -'  1  0  ~/test/test.txt
 |4,39,1,0,1686683367,"~/test/test.txt"
+-'  1  0  ~/test/test.txt
+|4,39,1,0,1686683367,"~/test/test.txt"
+-'  1  0  ~/test/test.txt
+|4,39,1,0,1686683367,"~/test/test.txt"
+-'  1  0  ~/test/test.txt
+|4,39,1,0,1686683367,"~/test/test.txt"
+-'  1  0  ~/test/test.txt
+|4,39,1,0,1686683367,"~/test/test.txt"
+-'  1  0  ~/test/test.txt
+|4,39,1,0,1686683367,"~/test/test.txt"
+-'  1  0  ~/test/test.txt
+|4,39,1,0,1686683367,"~/test/test.txt"
+-'  1  0  ~/test/test.txt
+|4,39,1,0,1686683367,"~/test/test.txt"
+-'  1  0  ~/test/test.txt
+|4,39,1,0,1686683367,"~/test/test.txt"
+-'  1  0  ~/test/test.txt
+|4,39,1,0,1686683367,"~/test/test.txt"
+-'  1  0  ~/test/test.txt
+|4,39,1,0,1686683367,"~/test/test.txt"
+-'  1  0  ~/test/test.txt
+|4,39,1,0,1686683367,"~/test/test.txt"
+-'  1  0  ~/test/test.txt
+|4,39,1,0,1686683367,"~/test/test.txt"
+-'  3  9  ~/.gitignore.txt
+|4,39,3,9,1686683303,"~/.gitignore.txt"
+-'  3  9  ~/.gitignore.txt
+|4,39,3,9,1686683303,"~/.gitignore.txt"
+-'  3  9  ~/.gitignore.txt
+|4,39,3,9,1686683303,"~/.gitignore.txt"
+-'  3  9  ~/.gitignore.txt
+|4,39,3,9,1686683303,"~/.gitignore.txt"
+-'  3  9  ~/.gitignore.txt
+|4,39,3,9,1686683303,"~/.gitignore.txt"
+-'  3  9  ~/.gitignore.txt
+|4,39,3,9,1686683303,"~/.gitignore.txt"
+-'  3  9  ~/.gitignore.txt
+|4,39,3,9,1686683303,"~/.gitignore.txt"
+-'  3  9  ~/.gitignore.txt
+|4,39,3,9,1686683303,"~/.gitignore.txt"
+-'  3  9  ~/.gitignore.txt
+|4,39,3,9,1686683303,"~/.gitignore.txt"
+-'  3  9  ~/.gitignore.txt
+|4,39,3,9,1686683303,"~/.gitignore.txt"
+-'  3  9  ~/.gitignore.txt
+|4,39,3,9,1686683303,"~/.gitignore.txt"
+-'  3  9  ~/.gitignore.txt
+|4,39,3,9,1686683303,"~/.gitignore.txt"
 -'  3  9  ~/.gitignore.txt
 |4,39,3,9,1686683303,"~/.gitignore.txt"
 -'  3  9  ~/.gitignore.txt
@@ -103,6 +207,46 @@
 -'  2  0  ~/.gitignore.txt
 |4,39,2,0,1686683270,"~/.gitignore.txt"
 -'  2  0  ~/.gitignore.txt
+|4,39,2,0,1686683270,"~/.gitignore.txt"
+-'  2  0  ~/.gitignore.txt
+|4,39,2,0,1686683270,"~/.gitignore.txt"
+-'  2  0  ~/.gitignore.txt
+|4,39,2,0,1686683270,"~/.gitignore.txt"
+-'  2  0  ~/.gitignore.txt
+|4,39,2,0,1686683270,"~/.gitignore.txt"
+-'  2  0  ~/.gitignore.txt
+|4,39,2,0,1686683270,"~/.gitignore.txt"
+-'  2  0  ~/.gitignore.txt
+|4,39,2,0,1686683270,"~/.gitignore.txt"
+-'  2  0  ~/.gitignore.txt
+|4,39,2,0,1686683270,"~/.gitignore.txt"
+-'  2  0  ~/.gitignore.txt
+|4,39,2,0,1686683270,"~/.gitignore.txt"
+-'  2  0  ~/.gitignore.txt
+|4,39,2,0,1686683270,"~/.gitignore.txt"
+-'  2  0  ~/.gitignore.txt
+|4,39,2,0,1686683270,"~/.gitignore.txt"
+-'  2  0  ~/.gitignore.txt
+|4,39,2,0,1686683270,"~/.gitignore.txt"
+-'  2  0  ~/.gitignore.txt
+|4,39,2,0,1686683270,"~/.gitignore.txt"
+-'  2  0  ~/.gitignore.txt
+|4,39,2,0,1686683270,"~/.gitignore.txt"
+-'  2  0  ~/.gitignore.txt
+|4,39,2,0,1686683270,"~/.gitignore.txt"
+-'  2  0  ~/.gitignore.txt
+|4,39,2,0,1686683270,"~/.gitignore.txt"
+-'  2  0  ~/.gitignore.txt
+|4,39,2,0,1686683270,"~/.gitignore.txt"
+-'  2  0  ~/.gitignore.txt
+|4,39,2,0,1686683270,"~/.gitignore.txt"
+-'  2  0  ~/.gitignore.txt
+|4,39,2,0,1686683270,"~/.gitignore.txt"
+-'  2  0  ~/.gitignore.txt
+|4,39,2,0,1686683243,"~/.gitignore.txt"
+-'  2  0  ~/.gitignore.txt
+|4,39,2,0,1686683243,"~/.gitignore.txt"
+-'  2  0  ~/.gitignore.txt
 |4,39,2,0,1686683243,"~/.gitignore.txt"
 -'  2  0  ~/.gitignore.txt
 |4,39,2,0,1686683243,"~/.gitignore.txt"
@@ -110,155 +254,11 @@
 |4,39,2,0,1686683243,"~/.gitignore.txt"
 -'  2  0  ~/.gitignore.txt
 |4,39,2,0,1686683243,"~/.gitignore.txt"
--'  1  0  ~/.gitignore.txt
-|4,39,1,0,1686683211,"~/.gitignore.txt"
--'  1  0  ~/.gitignore.txt
-|4,39,1,0,1686683211,"~/.gitignore.txt"
--'  1  0  ~/.gitignore.txt
-|4,39,1,0,1686683211,"~/.gitignore.txt"
--'  1  0  ~/.gitignore.txt
-|4,39,1,0,1686683211,"~/.gitignore.txt"
--'  1  0  ~/.gitignore.txt
-|4,39,1,0,1686683211,"~/.gitignore.txt"
--'  1  0  ~/.gitignore.txt
-|4,39,1,0,1686683211,"~/.gitignore.txt"
--'  1  0  ~/.gitignore.txt
-|4,39,1,0,1686683211,"~/.gitignore.txt"
--'  1  0  ~/.gitignore.txt
-|4,39,1,0,1686683211,"~/.gitignore.txt"
--'  1  0  ~/.gitignore.txt
-|4,39,1,0,1686683211,"~/.gitignore.txt"
--'  1  0  ~/.gitignore.txt
-|4,39,1,0,1686683211,"~/.gitignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  1  6  ~/test_ignore.txt
-|4,39,1,6,1686683184,"~/test_ignore.txt"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
--'  2  0  ~/demo/demo2.java
-|4,39,2,0,1686600518,"~/demo/demo2.java"
 
 # History of marks within files (newest to oldest):
 
 > ~/demo1.txt
-	*	1686683643	0
+	*	1686684252	0
 	"	5	86
 	^	5	87
 	.	5	86
