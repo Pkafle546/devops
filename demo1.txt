@@ -1,2 +1,10 @@
 hello
 
+
+
+
+it is used to add and commit together after commiting. Can only be used after commiting
+
+what is hyphening: Once we 
+
+
