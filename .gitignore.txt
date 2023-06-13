@@ -1,7 +1,6 @@
 test_ignore.txt
 
-demo2.java
+
+demo1.txt
 
 /test
-
-
